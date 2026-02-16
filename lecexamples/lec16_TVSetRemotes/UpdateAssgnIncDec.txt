@@ -37,7 +37,7 @@ The previous examples could be rewritten as:
 
 ================================
 
-This gives us have two ways to add one to a variable:
+This gives us two ways to add one to a variable:
 
     num = num + 1;
 
@@ -56,6 +56,7 @@ Similarly, there are 3 ways to subtract 1 (the third way is to use the Decrement
     number -= 1;
 
     number--;
+
 
 
   
